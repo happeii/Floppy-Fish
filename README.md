@@ -3,7 +3,7 @@ This project was for me to put something on GitHub feel free to play the game.
 ## How to Play
 ### How to Open
 1. Clone/Download the repo
-2. - Make sure zip file is extracted
+1. - Make sure zip file is extracted
 1. Open the Floppyfish.html
 ### Rules
 - Jump in between coral
