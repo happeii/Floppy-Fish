@@ -21,7 +21,7 @@ let fish = {
 
 //corals
 let coralArray = [];
-let coralWidth = 32; //width/height ratio = 384/3072 = 1/8
+let coralWidth = 64; //width/height ratio = 384/3072 = 1/8
 let coralHeight = 512;
 let coralX = boardWidth;
 let coralY = 0;
