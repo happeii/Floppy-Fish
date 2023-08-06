@@ -4,6 +4,7 @@ This project was for me to put something on GitHub feel free to play the game.
 ### How to Open
 1. Clone/Download the repo
    - Make sure zip file is extracted
+   - If git is install use update.bat to get latest updates.
 1. Open the Floppyfish.html
 ### Rules
 - Jump in between coral
