@@ -83,12 +83,12 @@ def main_loop():
 	def update_screen():
 		screen.blit(background,(0,0))
 		score_text=main_text.render(f'SCORE: {score}',True,(255,255,255))
-		screen.blit(score_text,(10,10))
 		player.draw(screen)
 		for obstacle_bottom in obstacles_bottoms:
 			obstacle_bottom.draw(screen)
 		for obstacle_top in obstacles_tops:
 			obstacle_top.draw(screen)
+		screen.blit(score_text,(10,10))
 
 		if game_over:
 			game_over_text = main_text2.render(f'G A M E  O V E R', True, (255,0,0))
