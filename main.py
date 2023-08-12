@@ -102,13 +102,6 @@ def main_loop():
 	while running:
 		timer.tick(fps)
 		update_screen()
-		"""
-		if lives <= 0 or player.hp <= 0:
-			if game_over == False:
-				game_over_sound.play()
-			game_over = True
-			game_over_counter += 1
-		"""
 
 
 		if obstacle_start:
