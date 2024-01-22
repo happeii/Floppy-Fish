@@ -7,7 +7,7 @@ This project was for me to put something on GitHub feel free to play the game.
 1. run "Floppy Fish.exe"
 ### Rules
 - Jump in between coral
-- Don't fall or hit the coral
+- Don't fall or hit the coral!
 ### Keys to move
 - w
 - Space
